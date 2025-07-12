@@ -1,0 +1,15 @@
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/bin/Debug/net9.0/MethodExtension
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/bin/Debug/net9.0/MethodExtension.deps.json
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/bin/Debug/net9.0/MethodExtension.runtimeconfig.json
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/bin/Debug/net9.0/MethodExtension.dll
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/bin/Debug/net9.0/MethodExtension.pdb
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/MethodExtension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/MethodExtension.AssemblyInfoInputs.cache
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/MethodExtension.AssemblyInfo.cs
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/MethodExtension.csproj.CoreCompileInputs.cache
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/MethodExtension.sourcelink.json
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/MethodExtension.dll
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/refint/MethodExtension.dll
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/MethodExtension.pdb
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/MethodExtension.genruntimeconfig.cache
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/MethodExtension/obj/Debug/net9.0/ref/MethodExtension.dll

@@ -1,0 +1,15 @@
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/bin/Debug/net9.0/LINQ
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/bin/Debug/net9.0/LINQ.deps.json
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/bin/Debug/net9.0/LINQ.runtimeconfig.json
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/bin/Debug/net9.0/LINQ.dll
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/bin/Debug/net9.0/LINQ.pdb
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/LINQ.AssemblyInfoInputs.cache
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/LINQ.AssemblyInfo.cs
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/LINQ.sourcelink.json
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/LINQ.dll
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/refint/LINQ.dll
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/LINQ.pdb
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/LINQ.genruntimeconfig.cache
+/Users/xuexiaobao/Desktop/Dotnet_Interview/InterviewQuestions/LINQ/obj/Debug/net9.0/ref/LINQ.dll
