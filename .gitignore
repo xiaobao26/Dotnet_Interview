@@ -1,0 +1,25 @@
+# build outputs (anywhere)
+bin/
+obj/
+
+# Rider / IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio user files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+
+# macOS
+.DS_Store
+
+# logs
+*.log
